@@ -79,4 +79,6 @@ fi
 
 echo ""
 echo ""
-echo "更新成功，请按任意键退出"
+echo "更新成功"
+
+exit 0
