@@ -1,0 +1,1 @@
+该脚本打包的是测试环境，使用是请更换exportTest.plist中的teamID为自己的teamID
